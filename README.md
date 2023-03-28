@@ -14,15 +14,18 @@
 
 
 <p align ="right">
-<samp><strong>💡Goals for 2021💡</samp></strong><br>
-<samp> Dive into programming.</samp><br>
-<samp>  Learn HTML and CSS.</samp><br>
-<samp> Learn Javascript. </samp><br>
-<samp> Learn git and github.</samp><br>
+<samp><strong>💡Goals for 2023💡</samp></strong><br>
+<samp> Desarrollar habilidades en diseño y desarrollo de aplicaciones web.</samp><br>
+<samp> Trabajar en equipo para crear interfaces de usuario atractivas y funcionales.</samp><br>
+<samp> Aplicar las mejores prácticas en la construcción de aplicaciones web.</samp><br>
+<samp> Participar en proyectos retadores para aprender y crecer profesionalmente.</samp><br>
+<samp> Trabajar en un ambiente de colaboración y aprendizaje continuo para desarrollar habilidades en el desarrollo frontend</samp><br>
 <br/>
-<samp><strong>💡Goals for 2022💡</samp></strong><br>
-<samp>Refine 2021 Goals.</samp><br>
-<samp>Learn JAVA.</samp>
+
+  
+<samp><strong>💡Goals for 2024💡</samp></strong><br>
+<samp>Trabajar en una empresa en Europa.</samp><br>
+<samp>Profundizar conocimientos del back</samp>
 </p>
 
  <p align ="left">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🚀</p>
