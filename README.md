@@ -25,7 +25,7 @@
   
 <samp><strong>💡Goals for 2024💡</samp></strong><br>
 <samp>Trabajar en una empresa en Europa.</samp><br>
-<samp>Profundizar conocimientos del back</samp>
+<samp>Profundizar conocimientos</samp>
 </p>
 
  <p align ="left">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🚀</p>
