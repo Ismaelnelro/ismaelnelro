@@ -23,7 +23,7 @@
 
   
 <samp><strong>💡Goals for 2024💡</samp></strong><br>
-<samp>Trabajar en una empresa en Europa.</samp><br>
+<samp>Trabajar en una empresa.</samp><br>
 <samp>Profundizar conocimientos</samp>
 </p>
 
