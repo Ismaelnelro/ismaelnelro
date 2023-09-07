@@ -15,16 +15,16 @@
 
 <p align ="right">
 <samp><strong>💡Goals for 2023💡</samp></strong><br>
-<samp> Desarrollar habilidades en diseño y desarrollo de aplicaciones web.</samp><br>
-<samp> Trabajar en un ambiente de colaboracion para crear interfaces de usuario atractivas y funcionales.</samp><br>
-<samp> Aplicar las mejores prácticas en la construcción de aplicaciones web.</samp><br>
-<samp> Participar en proyectos retadores para aprender y crecer profesionalmente.</samp><br>
+<samp>Develop skills in web application design and development.</samp>
+<samp>Work in a collaborative environment to create attractive and functional user interfaces.</samp>
+<samp>Apply best practices in building web applications.</samp>
+<samp>Participate in challenging projects to learn and grow professionally.</samp>
 <br/>
 
   
 <samp><strong>💡Goals for 2024💡</samp></strong><br>
-<samp>Trabajar en una empresa.</samp><br>
-<samp>Profundizar conocimientos</samp>
+<samp>Work in a company.</samp>
+<samp>Deepen knowledge.</samp>
 </p>
 
  <p align ="left">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🚀</p>
