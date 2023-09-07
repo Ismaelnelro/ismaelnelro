@@ -4,7 +4,7 @@
   <br>
   <img src="https://media.giphy.com/media/ssm0SSwVbICGc/giphy.gif" width="150" align= "right"/>
    <br>
-  <samp>Hello there. I'm <strong>Ismael.</strong><br> I'm a student and self-taught person</samp>
+  <samp>Hello there. I'm <strong>Ismael.</strong></samp>
   <br>
   <br
 
